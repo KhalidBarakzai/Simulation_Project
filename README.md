@@ -1,5 +1,5 @@
 ## Team members
-Khalid Barakkzai
+Khalid Barakzai
 
 Daniel Kong
 
