@@ -1,9 +1,9 @@
 ## Team members
-Daniel Kong, kong0150
+Khalid Barakkzai
 
-Khalid Barakzai, khali081
+Daniel Kong
 
-Alexander Zhu, zhux0533
+Alexander Zhu
 
 ## CSCI 3081 Simulation Project
 
