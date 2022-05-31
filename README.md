@@ -11,14 +11,6 @@ Alexander Zhu, zhux0533
 
 ## Modified files:
 
-**Jetpack model, found at:** 
- - project/apps/transit_service/web/assets/model/jetpack.glb
- - does nothing, kept to show that I attempted to implement a jetpack on the drone and robot
-
-**RobotWithJetpack model, found at:** 
- - project/apps/transit_service/web/assets/model/robotwithjetpack.glb
- - is an exact copy of robot.glb but renamed, trying to add animations and the jetpack broke the file, so i gave up
-
 **NoMove strategy, found at:** 
  - project/libs/transit/include/NoMove.h 
  - project/libs/transit/src/NoMove.cpp
