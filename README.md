@@ -5,7 +5,7 @@ Khalid Barakzai, khali081
 
 Alexander Zhu, zhux0533
 
-CSCI 3081 Project
+**CSCI 3081 Project**
 
 This directory contains the support code needed to visualize the CSCI 3081 project and run tests. The beta support code explains how to quickly get a drone moving. Most of the logic should be moved into the simulation facade so that the simulation is not dependent on the view. See web_app.cc for more details.
 What is in this directory?
@@ -20,7 +20,7 @@ What is in this directory?
     web folder, which contains:
         The javascript visualization code 
 
-Getting Started
+**Getting Started**
 
 Here is a quick overview of how to run the visualization (These steps are similar in each build environment. See below for environment details.):
 
@@ -43,11 +43,11 @@ Navigate to http://127.0.0.1:8081/schedule.html and you should see a a page to s
 
 Below are instructions that detail how to build and run in several different environments.
 Getting Started with Docker
-Pre-requisites
+**Pre-requisites**
 
     Git
 
-Docker Pre-requisites
+**Docker Pre-requisites**
 
     Windows 10 Home
         Install wsl2 and Ubuntu
@@ -55,7 +55,7 @@ Docker Pre-requisites
     Linux
         Use docker group instead of sudo
 
-Building and running the project
+**Building and running the project**
 
     Build docker image
 
@@ -80,7 +80,7 @@ Building and running the project
 
     Open up Firefox and browse to http://127.0.0.1:8081/
 
-Getting Started using SSH on CSE Lab machines
+**Getting Started using SSH on CSE Lab machines**
 
     SSH into a CSE Lab Machine using port forwarding for the UI
 
@@ -105,7 +105,7 @@ Getting Started using SSH on CSE Lab machines
 
     Open up Firefox and browse to http://127.0.0.1:8081/
 
-Getting Started with CSE Lab Machines, VOLE-3D, or VOLE
+**Getting Started with CSE Lab Machines, VOLE-3D, or VOLE**
 
     Log on to CSE Lab Macines, VOLE-3D, or VOLE (VOLE is slower for graphics, but is great for tests, etc...)
 
